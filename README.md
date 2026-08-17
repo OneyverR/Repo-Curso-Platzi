@@ -10,4 +10,6 @@ Mi cuarta contribución a un proyecto de Código abierto ahora desde GitHub
 
 Otra actualización para probar el comando FETCH 
 
-U nuevo cambio en mi Repo Local para validacion de Pull Request 001
+Un nuevo cambio en mi Repo Local para validacion de Pull Request 001
+Nueva linea de codigo para validacion de Pull Request 002
+
